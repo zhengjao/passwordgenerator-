@@ -1,2 +1,2 @@
-# 密码生成器
+#passwordgenerator
 嗨害嗨
